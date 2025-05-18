@@ -33,7 +33,7 @@ Cars with mid-level safety ratings (4–4.5 stars) are chosen by 68% of buyers
 
 Electric cars, especially Tata Nexon, are gaining traction in Urban regions
 
-### Recommendations
+### Recommendations:
 Based on the data analysis, the following actionable recommendations were provided to AutoTrend Dealerships:
 
 Inventory Optimization
